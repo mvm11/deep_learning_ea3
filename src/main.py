@@ -24,7 +24,7 @@ def main() -> None:
     # --------- 0. Parámetros ------------------
     VOCAB_SIZE = 1000
     MAX_LEN = 50
-    DATA_PATH = "/Users/mateo/Desktop/EA3/db/comments.csv"
+    DATA_PATH = "/db/comments.csv"
 
     # --------- 1. Mostrar summary --------------
     print("\nResumen de la arquitectura de la CNN:")

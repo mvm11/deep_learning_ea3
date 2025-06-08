@@ -6,6 +6,7 @@ Una agencia de marketing digital desea analizar los comentarios de los clientes 
 
 ---
 
+
 ## Objetivo
 
 Implementar una red neuronal básica (CNN + RNN) que clasifique sentimientos en comentarios de texto, siguiendo el informe de la EA2 y cumpliendo los criterios de la EA3.
@@ -75,7 +76,7 @@ EA3/
 4. Correr flujo principal (summary, entrenamiento, predicción, métricas):
 
    ```bash
-   python main.py
+   python src/main.py
    ```
 
 ---
