@@ -1,18 +1,18 @@
 # Evidencia de Aprendizaje 3: Implementación Básica de una Red Neuronal
 
-## 📖 Caso de Estudio
+## Caso de Estudio
 
 Una agencia de marketing digital desea analizar los comentarios de los clientes para identificar opiniones positivas y negativas. Utilizando una Red Neuronal Recurrente (RNN) y herramientas de análisis de texto, mejoraremos la comprensión de los sentimientos expresados y proporcionaremos recomendaciones para incrementar las ventas.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Implementar una red neuronal básica (CNN + RNN) que clasifique sentimientos en comentarios de texto, siguiendo el informe de la EA2 y cumpliendo los criterios de la EA3.
 
 ---
 
-## 📚 Instrucciones Generales
+## Instrucciones Generales
 
 1. **Lee** el material de la Unidad 3 con atención.
 2. **Selecciona** el framework: TensorFlow o PyTorch.
@@ -54,7 +54,7 @@ EA3/
 
 ---
 
-## 🚀 Cómo Ejecutar
+## Cómo Ejecutar
 
 1. Crear y activar el entorno virtual:
 
