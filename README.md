@@ -28,7 +28,7 @@ Implementar una red neuronal básica (CNN + RNN) que clasifique sentimientos en 
 
 ---
 
-## 🗂 Estructura de Archivos
+## Estructura de Archivos
 
 ```
 EA3/
